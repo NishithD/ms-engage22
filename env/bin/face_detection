@@ -1,4 +1,6 @@
-#!/home/nishith/Desktop/ms-engage22/env/bin/python3
+#!/bin/sh
+'''exec' /home/nishith/Desktop/Attendance-Management-System-Using-Face-Recognition/Attendance-System-Using-Face-Recognition/env/bin/python3 "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
