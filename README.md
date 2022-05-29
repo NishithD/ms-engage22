@@ -21,6 +21,5 @@
 ## Steps to Run:
 - clone it on your computer
 - make a separate [python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) or use the default one already installed on your machine
-- run **``` pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition ```** directory
-- Run **``` python manage.py runserver ```** inside **``` \Attendance-System-Using-Face-Recognition ```** directory to run the project
+- run **``` pip install -r requirements.txt ```** and then Run **``` python manage.py runserver ```** in the terminal
 - Done !
