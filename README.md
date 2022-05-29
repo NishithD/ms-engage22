@@ -19,7 +19,7 @@
 • View attendance report of self <br>
 
 ## Steps to Run:
-- clone it on your computer
-- make a separate [python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) or use the default one already installed on your machine
-- run **``` pip install -r requirements.txt ```** and then Run **``` python manage.py runserver ```** in the terminal
+- Clone it on your computer
+- Make a separate [python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) or use the default one already installed on your machine
+- Run **``` pip install -r requirements.txt ```** and then Run **``` python manage.py runserver ```** in the terminal
 - Done !
